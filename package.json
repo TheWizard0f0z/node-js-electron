@@ -2,6 +2,9 @@
   "name": "node-js-electron",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
   "repository": "https://github.com/TheWizard0f0z/node-js-electron.git",
   "author": "Marcin Dzieszkowski <m.dzieszkowski@gmail.com>",
   "license": "MIT",
